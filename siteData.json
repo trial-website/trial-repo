@@ -4,6 +4,23 @@
     {
       "headings": {
         "undefined": "Landing Page Title",
+        "heading-1": "Heading 1",
+        "sub-heading-1-1": "Sub Heading 1.1",
+        "sub-heading-1-2": "Sub Heading 1.2",
+        "heading-2": "Heading 2",
+        "heading-3": "Heading 3"
+      },
+      "header": "header.md",
+      "pageNav": 2,
+      "pageNavTitle": "Chapters of This Page",
+      "siteNav": "site-nav.md",
+      "src": "help/index.md",
+      "title": "",
+      "layout": "default"
+    },
+    {
+      "headings": {
+        "undefined": "Landing Page Title",
         "major-heading-1": "Major Heading 1",
         "sub-heading-1-1": "Sub Heading 1.1",
         "sub-heading-1-2": "Sub Heading 1.2",
@@ -57,6 +74,88 @@
       "header": "header.md",
       "siteNav": "site-nav.md",
       "src": "contents/topic3b.md",
+      "title": "",
+      "layout": "default"
+    },
+    {
+      "headings": {},
+      "src": "help/_markbind/footers/footer.md",
+      "title": "",
+      "layout": "default"
+    },
+    {
+      "headings": {},
+      "src": "help/_markbind/headers/header.md",
+      "title": "",
+      "layout": "default"
+    },
+    {
+      "headings": {},
+      "src": "help/_markbind/layouts/default/footer.md",
+      "title": "",
+      "layout": "default"
+    },
+    {
+      "headings": {},
+      "src": "help/_markbind/layouts/default/head.md",
+      "title": "",
+      "layout": "default"
+    },
+    {
+      "headings": {},
+      "src": "help/_markbind/layouts/default/header.md",
+      "title": "",
+      "layout": "default"
+    },
+    {
+      "headings": {},
+      "src": "help/_markbind/layouts/default/navigation.md",
+      "title": "",
+      "layout": "default"
+    },
+    {
+      "headings": {},
+      "src": "help/_markbind/navigation/site-nav.md",
+      "title": "",
+      "layout": "default"
+    },
+    {
+      "headings": {},
+      "src": "help/_markbind/variables.md",
+      "title": "",
+      "layout": "default"
+    },
+    {
+      "headings": {
+        "topic-1": "Topic 1"
+      },
+      "header": "header.md",
+      "siteNav": "site-nav.md",
+      "src": "help/contents/topic1.md",
+      "title": "",
+      "layout": "default"
+    },
+    {
+      "headings": {},
+      "header": "header.md",
+      "siteNav": "site-nav.md",
+      "src": "help/contents/topic2.md",
+      "title": "",
+      "layout": "default"
+    },
+    {
+      "headings": {},
+      "header": "header.md",
+      "siteNav": "site-nav.md",
+      "src": "help/contents/topic3a.md",
+      "title": "",
+      "layout": "default"
+    },
+    {
+      "headings": {},
+      "header": "header.md",
+      "siteNav": "site-nav.md",
+      "src": "help/contents/topic3b.md",
       "title": "",
       "layout": "default"
     }
